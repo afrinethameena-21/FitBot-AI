@@ -141,10 +141,9 @@ const GenerateProgramPage = () => {
             <span className="uppercase text-[#8A2BE2]">FITNESS PROGRAM</span>
           </h1>
           <p className="text-muted-foreground mt-2">
-            Have a voice conversation with FitBot to generate a personalized
-            fitness program.
-            Connect to your microphone and click "Start Call" to begin.
-          </p>
+  Have a voice conversation with FitBot to generate a personalized
+  fitness program. Connect to your microphone and click &quot;Start Call&quot; to begin.
+</p>
         </div>
 
         {/* Main Card */}
